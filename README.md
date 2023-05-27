@@ -20,4 +20,17 @@
 1.10. Conhecendo o ecossistema de projetos Spring
 1.11. Estudos de caso
 
+### 2. Construindo uma REST API
 
+2.1. Preparando o ambiente de desenvolvimento
+2.2. Conhecendo o modelo de domínio do projeto
+2.3. Alternativas para criar projetos Spring Boot
+2.4. Criando o projeto com Spring Initializr
+2.5. Entendendo a estrutura do projeto Maven
+2.6. Gerando o FatJAR e iniciando a aplicação
+2.7. Implementando e testando a requisição de um recurso
+2.8. Implementando uma Collection Resource
+2.9. Configurando e usando o Lombok
+2.10. Métodos e códigos de status HTTP
+2.11. Content Negotiation
+2.12. Turbinando a produtividade com DevTools
