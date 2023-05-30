@@ -34,3 +34,19 @@
 2.10. Métodos e códigos de status HTTP
 2.11. Content Negotiation
 2.12. Turbinando a produtividade com DevTools
+
+### 3. Persistindo Dados
+
+3.1. Configurando a conexão com o banco de dados no projeto
+3.2. Conhecendo e adicionando o Flyway no projeto
+3.3. Criando a primeira migration com Flyway
+3.4. Conhecendo o Jakarta Persistence (JPA)
+3.5. Mapeando entidades com Jakarta Persistence
+3.6. Implementando uma consulta com JPQL
+3.7. Conhecendo o Spring Data JPA (SDJ) e criando um repositório
+3.8. Injetando e usando o repositório do SDJ
+3.9. Implementando Query Methods no repositório
+3.10. Implementando endpoint de busca de recurso
+3.11. Implementando endpoint de inclusão de recurso
+3.12. Implementando endpoint de atualização de recurso
+3.13. Implementando endpoint de exclusão de recurso
