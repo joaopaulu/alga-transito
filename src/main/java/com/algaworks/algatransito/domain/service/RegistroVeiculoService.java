@@ -15,8 +15,8 @@ import java.time.LocalDateTime;
 @Service
 public class RegistroVeiculoService {
 
-    private VeiculoRepository veiculoRepository;
-    private RegistroProprietarioService registroProprietarioService;
+    private final VeiculoRepository veiculoRepository;
+    private final RegistroProprietarioService registroProprietarioService;
 
     @Transactional
     public Veiculo cadastrar(Veiculo novoVeiculo) {
@@ -40,6 +40,5 @@ public class RegistroVeiculoService {
 
         return veiculoRepository.save(novoVeiculo);
     }
-
 
 }
