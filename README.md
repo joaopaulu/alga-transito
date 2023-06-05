@@ -50,3 +50,19 @@
 3.11. Implementando endpoint de inclusão de recurso
 3.12. Implementando endpoint de atualização de recurso
 3.13. Implementando endpoint de exclusão de recurso
+
+### 4. Evoluindo a API
+
+4.1. Conhecendo e adicionando Jakarta Bean Validation no projeto
+4.2. Validando entrada de dados com Jakarta Bean Validation
+4.3. Implementando Domain Services
+4.4. Implementando regra de negócio para restringir e-mails duplicados
+4.5. Capturando exceções do controlador com @ExceptionHandler
+4.6. Adicionando migration para criação da tabela de veículos
+4.7. Criando e mapeando a entidade de veículo
+4.8. Implementando os endpoints de consulta de veículos
+4.9. Implementando o endpoint de inclusão de veículos
+4.10. Implementando regras de negócio no cadastro de veículos
+4.11. Protegendo propriedades somente-leitura
+4.12. Validando em cascata
+4.13. Validando com Validation Groups
