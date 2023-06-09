@@ -82,3 +82,15 @@
 5.11. Implementando assembler de Representation Model
 5.12. Compondo objetos no Representation Model
 5.13. Criando um Representation Model para entrada de dados
+
+### 6. Modeelando sub-recurso e ações não-CRUD
+
+6.1. Criando e mapeando a entidade de autuação
+6.2. Implementando serviço de autuação
+6.3. Modelando sub-recursos
+6.4. Implementando o endpoint de cadastro do recurso de autuação
+6.5. Especializando a exceção de entidade não encontrada
+6.6. Implementando recurso de coleção de autuações
+6.7. Implementando regras de negócio de apreensão de veículo
+6.8. Modelando ações não-CRUD
+6.9. Implementando endpoints de ações não-CRUD
