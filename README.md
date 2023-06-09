@@ -66,3 +66,19 @@
 4.11. Protegendo propriedades somente-leitura
 4.12. Validando em cascata
 4.13. Validando com Validation Groups
+
+### 5. Aplicando as boas práticas
+
+5.1. Capturando exceções globais com @RestControllerAdvice
+5.2. Usando a RFC 7807 (Problem Details for HTTP APIs)
+5.3. Customizando as informações do ProblemDetail
+5.4. Adicionando campos customizados no ProblemDetail
+5.5. Customizando as mensagens de validação
+5.6. Tratando exceções customizadas de forma global
+5.7. Boas práticas para trabalhar com data/hora
+5.8. Isolando o Domain Model do Representation Model
+5.9. Criando o Representation Model do recurso de veículo
+5.10. Transformando objetos com ModelMapper
+5.11. Implementando assembler de Representation Model
+5.12. Compondo objetos no Representation Model
+5.13. Criando um Representation Model para entrada de dados
